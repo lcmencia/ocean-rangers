@@ -32,3 +32,28 @@ The project would be founded by governmental aid organizations such as the US’
 NASA resources:
 https://podaac-tools.jpl.nasa.gov/soto/#b=BlueMarble_ShadedRelief_Bathymetry&l=CYGNSS_L3_Wind_Speed_Daily(la=true),oscar_l4_oc_third_deg___oceancurrent_speed___1088_x_544___daynight(la=true),jpl_l4_mur_ssta___ssta___36000_x_18000___daynight(la=true),MODIS_Aqua_CorrectedReflectance_TrueColor&ve=-234.93225764019274,-74.73959518850124,-2.770127470748136,74.50748849185602&pl=false&pb=false&d=2019-10-16&ao=false&as=2019-10-09&ae=2019-10-16&asz=1/day&afr=500&tlr=days
 We will use NASA datasets to plot the collection path of the drones, using currents, wind, temperature, etc, that can be used to better navigate the autonomous fleet.
+
+Link to E-WAV Project
+
+https://2019.spaceappschallenge.org/challenges/earths-oceans/trash-cleanup/teams/ocean-rangers/project
+
+Sources:
+
+Laurent C. M. Lebreton, et al., “Evidence that the Great Pacific Garbage Patch is rapidly accumulating plastic,” Scientific Reports 8, no. 4666 (March 2018), https://doi.org/10.1038/s41598-018-22939-w
+
+Laurent C. M. Lebreton, et al., “River plastic emissions to the world’s oceans,” Nature Communications 8, no. 15611 (June 2017), http://doi.org/10.1038/ncomms15611
+
+Qiqing Chen, et al., “Pollutants in Plastics within the North Pacific Subtropical Gyre,” Environmental Science and Technology 52, no. 2 (November 2017): 446-456, http://doi.org/10.1021/acs.est.7b04682
+
+Julia Reisser, et al., “The vertical distribution of buoyant plastics at sea: an observational study in the North Atlantic Gyre,” Biogeosciences 12 (February 2015): 1249-1256, https://doi.org/10.5194/bg-12-1249-2015
+
+Merel Kooi, et al., “The effect of particle properties on the depth profile of buoyant plastics in the ocean,” Scientific Reports 92, 1-2 (March 2015): 170-179, http://doi.org/10.1038/srep33882
+
+Sarah Gall, Richard C. Thompson, “The impact of debris on marine life,” Marine Pollution Bulletin 6, no. 33882 (October 2016), https://doi.org/10.1016/j.marpolbul.2014.12.041
+
+Julie Raynaud, “Valuing Plastics: The Business Case for Measuring, Managing and Disclosing Plastic Use in the Consumer Goods Industry,” Trucost, UNEP, 2014
+
+https://www.researchgate.net/profile/Oluniyi_Ogunola/publication/303870057_Microplastics_in_the_Marine_Environment_Current_Status_Assessment_Methodologies_Impacts_and_Solutions/links/5a781e810f7e9b41dbd26893/Microplastics-in-the-Marine-Environment-Current-Status-Assessment-Methodologies-Impacts-and-Solutions.pdf
+https://www.businessinsider.com/plastic-pollution-magnetic-coils-could-break-down-microplastics-2019-8
+
+https://www.worldfinance.com/markets/counting-the-cost-of-plastic-pollution
