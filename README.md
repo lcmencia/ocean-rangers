@@ -1,6 +1,10 @@
 # ocean-rangers
 E-WAV
-A fleet of marine drones that will collect mesoplastic out of the great pacific garbage patch and deposit into a collection point to be later transported to the coast
+
+![alt text](cover.png)
+
+
+ A fleet of marine drones that will collect mesoplastic out of the great pacific garbage patch and deposit into a collection point to be later transported to the coast
 It’s estimated that up to 14 million tons of plastic enters the ocean each year!
 This waste that ends up in the ocean degrades into smaller pieces of plastic under the effects of sun and waves, becoming more and more difficult to catch, and posing a bigger threat to marine life.
 
